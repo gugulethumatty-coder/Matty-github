@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+id=input("Enter your id:")
+adress=input("Enter your adress:")
+country=input("Enter your country:")
+print(f"Hello{name},you are{age}years old!,your id{id}, your adress is{adress}") 
